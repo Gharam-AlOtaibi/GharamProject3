@@ -1,0 +1,11 @@
+{
+  "name": "chatbox",
+  "version": "1.0.0",
+  "description": "chatbox using NodeJS ExpressJS Socket.io",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
